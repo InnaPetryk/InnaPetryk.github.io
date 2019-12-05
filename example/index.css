@@ -1,0 +1,18 @@
+/* div {
+width: 50%;
+height: 200px;
+margin: 0 auto;
+border: 1px solid black;
+
+
+}
+#wrap{
+    width: 100%;
+} */
+
+#move {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background: red;
+}
